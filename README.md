@@ -30,9 +30,9 @@ By [Abdullah Hamdi](https://abdullahamdi.com/), [Silvio Giancola](https://www.si
 
 <br>
 
-
-![TEASER](misc/teaser.png)
-
+<p float="center">
+<img src=misc/teaser.png width="47.5%" />
+</p>
 **TL;DR:** We propose voint cloud, a novel 3D data structure, that combines multi-view and point clouds for robust 3D understanding tasks. 
 
 
@@ -45,7 +45,10 @@ Multi-view projection methods have demonstrated promising performance on 3D unde
   <img src=misc/cls.png width="47.5%" />
   <img src=misc/views.png width="50%" />
 </p>
-![vis](misc/car.gif)
+<p float="left">
+  <img src=misc/seg.png width="47.5%" />
+  <img src=misc/car.gif width="50%" />
+</p>
 
 # News
 - :boom: Jan 2023, Code released in https://github.com/ajhamdi/mvtorch
