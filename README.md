@@ -46,8 +46,8 @@ Multi-view projection methods have demonstrated promising performance on 3D unde
   <img src=misc/views.png width="50%" />
 </p>
 <p float="left">
-  <img src=misc/seg.png width="70%" />
-  <img src=misc/car.gif width="29%" />
+  <img src=misc/seg.png width="65%" />
+  <img src=misc/car.gif width="34%" />
 </p>
 
 # News
