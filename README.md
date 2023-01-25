@@ -5,6 +5,10 @@ Webpage for paper [Voint Cloud: Multi-View Point Cloud Representation for 3D Und
 By [Abdullah Hamdi](https://abdullahamdi.com/), [Silvio Giancola](https://www.silviogiancola.com/), [Bernard Ghanem](http://www.bernardghanem.com/)
 ### [Paper](https://arxiv.org/pdf/2111.15363.pdf) | Video | Tutorial . <br>
 
+<p float="left">
+<img src=misc/teaser.png width="47.5%" />
+</p>
+
 <br>
 
 **Code is integrated into [MVTorch](https://github.com/ajhamdi/mvtorch) library**.
@@ -25,14 +29,6 @@ If you are using our code in your work, please kindly cite the following:
 ---
 **Voint Cloud: Multi-View Point Cloud Representation for 3D Understanding**
 
-By [Abdullah Hamdi](https://abdullahamdi.com/), [Silvio Giancola](https://www.silviogiancola.com/), [Bernard Ghanem](http://www.bernardghanem.com/)
-### [Paper](https://arxiv.org/pdf/2111.15363.pdf) | Video | Tutorial . <br>
-
-<br>
-
-<p float="center">
-<img src=misc/teaser.png width="47.5%" />
-</p>
 **TL;DR:** We propose voint cloud, a novel 3D data structure, that combines multi-view and point clouds for robust 3D understanding tasks. 
 
 
