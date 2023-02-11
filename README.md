@@ -1,5 +1,5 @@
-# Voint Cloud (ICLR'23)
----
+# Voint Cloud: Multi-View Point Cloud Representation for 3D Understanding (ICLR'23)
+
 Webpage for paper [Voint Cloud: Multi-View Point Cloud Representation for 3D Understanding](https://arxiv.org/abs/2111.15363)
 
 By [Abdullah Hamdi](https://abdullahamdi.com/), [Silvio Giancola](https://www.silviogiancola.com/), [Bernard Ghanem](http://www.bernardghanem.com/)
@@ -22,7 +22,9 @@ If you are using our code in your work, please kindly cite the following:
   title={Voint Cloud: Multi-View Point Cloud Representation for 3D Understanding},
   author={Hamdi, Abdullah and Giancola, Silvio and Ghanem, Bernard},
   booktitle={International Conference on Learning Representations},
-  year={2023}
+  year={2023},
+  url={https://openreview.net/forum?id=IpGgfpMucHj}
+
 }
 ``` 
 
