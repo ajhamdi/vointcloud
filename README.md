@@ -3,7 +3,7 @@
 Webpage for paper [Voint Cloud: Multi-View Point Cloud Representation for 3D Understanding](https://arxiv.org/abs/2111.15363)
 
 By [Abdullah Hamdi](https://abdullahamdi.com/), [Silvio Giancola](https://www.silviogiancola.com/), [Bernard Ghanem](http://www.bernardghanem.com/)
-### [Paper](https://arxiv.org/pdf/2111.15363.pdf) | Video | Tutorial . <br>
+### [Paper](https://arxiv.org/pdf/2111.15363.pdf) | [Video](https://youtu.be/FKDYoOQDaiM) | Tutorial . <br>
 
 <p float="left">
 <img src=misc/teaser.png width="47.5%" />
