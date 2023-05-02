@@ -11,7 +11,7 @@ By [Abdullah Hamdi](https://abdullahamdi.com/), [Silvio Giancola](https://www.si
 
 <br>
 
-**Code is integrated into [MVTorch](https://github.com/ajhamdi/mvtorch) library**.
+**Code is integrated into [MVTorch](https://github.com/ajhamdi/mvtorch) library**. Run the [Segmentation example](https://github.com/ajhamdi/mvtorch/blob/main/examples/segmentation.py), but change `lifting_method='mode'` to `lifting_method='mlp'` to use Voints.
 
 **Open an issue in https://github.com/ajhamdi/mvtorch if you have question regards to Voint Cloud**. 
 
